@@ -1,26 +1,25 @@
-/home/emeykey/Desktop/dsploit-arpspoof/obj/local/x86/objs/net/src/libnet_build_802.1x.o: \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/libnet_build_802.1x.c \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/config.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/libnet.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-types.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-macros.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-headers.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-structures.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-asn1.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-functions.h
+./obj/local/x86/objs/net/src/libnet_build_802.1x.o: \
+  jni\libnet\src\libnet_build_802.1x.c \
+  jni\libnet\src\..\include\config.h jni\libnet\src\..\include\libnet.h \
+  jni\libnet\src\..\include\.\libnet\libnet-types.h \
+  jni\libnet\src\..\include\.\libnet\libnet-macros.h \
+  jni\libnet\src\..\include\.\libnet\libnet-headers.h \
+  jni\libnet\src\..\include\.\libnet\libnet-structures.h \
+  jni\libnet\src\..\include\.\libnet\libnet-asn1.h \
+  jni\libnet\src\..\include\.\libnet\libnet-functions.h
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/config.h:
+jni\libnet\src\..\include\config.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/libnet.h:
+jni\libnet\src\..\include\libnet.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-types.h:
+jni\libnet\src\..\include\.\libnet\libnet-types.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-macros.h:
+jni\libnet\src\..\include\.\libnet\libnet-macros.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-headers.h:
+jni\libnet\src\..\include\.\libnet\libnet-headers.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-structures.h:
+jni\libnet\src\..\include\.\libnet\libnet-structures.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-asn1.h:
+jni\libnet\src\..\include\.\libnet\libnet-asn1.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../include/./libnet/libnet-functions.h:
+jni\libnet\src\..\include\.\libnet\libnet-functions.h:

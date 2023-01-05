@@ -1,17 +1,13 @@
-/home/emeykey/Desktop/dsploit-arpspoof/obj/local/x86/objs/pcap/pcap.o: \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap.c \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/config.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-int.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-bpf.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/version.h
+./obj/local/x86/objs/pcap/pcap.o: jni\libpcap\pcap.c jni\libpcap\config.h \
+  jni\libpcap\pcap-int.h jni\libpcap\pcap.h jni\libpcap\pcap-bpf.h \
+  jni\libpcap\version.h
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/config.h:
+jni\libpcap\config.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-int.h:
+jni\libpcap\pcap-int.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap.h:
+jni\libpcap\pcap.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-bpf.h:
+jni\libpcap\pcap-bpf.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/version.h:
+jni\libpcap\version.h:

@@ -5,6 +5,7 @@
 
 //from ubuntu's netinet/in.h
 //typedef uint32_t in_addr_t;
+#define ETH_ALEN 6
 
 //from ubuntu's net/ethernet.h
 struct ether_addr

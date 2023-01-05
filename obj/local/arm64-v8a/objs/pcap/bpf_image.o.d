@@ -1,14 +1,11 @@
-/home/emeykey/Desktop/dsploit-arpspoof/obj/local/arm64-v8a/objs/pcap/bpf_image.o: \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/bpf_image.c \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/config.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-int.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-bpf.h
+./obj/local/arm64-v8a/objs/pcap/bpf_image.o: jni\libpcap\bpf_image.c \
+  jni\libpcap\config.h jni\libpcap\pcap-int.h jni\libpcap\pcap.h \
+  jni\libpcap\pcap-bpf.h
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/config.h:
+jni\libpcap\config.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-int.h:
+jni\libpcap\pcap-int.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap.h:
+jni\libpcap\pcap.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-bpf.h:
+jni\libpcap\pcap-bpf.h:

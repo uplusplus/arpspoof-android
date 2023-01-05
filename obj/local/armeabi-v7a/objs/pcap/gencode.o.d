@@ -1,44 +1,34 @@
-/home/emeykey/Desktop/dsploit-arpspoof/obj/local/armeabi-v7a/objs/pcap/gencode.o: \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/gencode.c \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/config.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-int.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-bpf.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/ethertype.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/nlpid.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/llc.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/gencode.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/atmuni31.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/sunatmpos.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/ppp.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/sll.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/arcnet.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-namedb.h
+./obj/local/armeabi-v7a/objs/pcap/gencode.o: jni\libpcap\gencode.c \
+  jni\libpcap\config.h jni\libpcap\pcap-int.h jni\libpcap\pcap.h \
+  jni\libpcap\pcap-bpf.h jni\libpcap\ethertype.h jni\libpcap\nlpid.h \
+  jni\libpcap\llc.h jni\libpcap\gencode.h jni\libpcap\atmuni31.h \
+  jni\libpcap\sunatmpos.h jni\libpcap\ppp.h jni\libpcap\sll.h \
+  jni\libpcap\arcnet.h jni\libpcap\pcap-namedb.h
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/config.h:
+jni\libpcap\config.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-int.h:
+jni\libpcap\pcap-int.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap.h:
+jni\libpcap\pcap.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-bpf.h:
+jni\libpcap\pcap-bpf.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/ethertype.h:
+jni\libpcap\ethertype.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/nlpid.h:
+jni\libpcap\nlpid.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/llc.h:
+jni\libpcap\llc.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/gencode.h:
+jni\libpcap\gencode.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/atmuni31.h:
+jni\libpcap\atmuni31.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/sunatmpos.h:
+jni\libpcap\sunatmpos.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/ppp.h:
+jni\libpcap\ppp.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/sll.h:
+jni\libpcap\sll.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/arcnet.h:
+jni\libpcap\arcnet.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-namedb.h:
+jni\libpcap\pcap-namedb.h:

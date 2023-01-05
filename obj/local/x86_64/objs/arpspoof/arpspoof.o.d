@@ -1,38 +1,34 @@
-/home/emeykey/Desktop/dsploit-arpspoof/obj/local/x86_64/objs/arpspoof/arpspoof.o: \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/arpspoof.c \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/arp.h libnet/include/libnet.h \
- libnet/include/./libnet/libnet-types.h \
- libnet/include/./libnet/libnet-macros.h \
- libnet/include/./libnet/libnet-headers.h \
- libnet/include/./libnet/libnet-structures.h \
- libnet/include/./libnet/libnet-asn1.h \
- libnet/include/./libnet/libnet-functions.h libpcap/pcap.h \
- libpcap/pcap-bpf.h include/droid.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/net.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/hashmap.h
+./obj/local/x86_64/objs/arpspoof/arpspoof.o: jni\arpspoof.c jni\arp.h \
+  jni\libnet\include\libnet.h jni\libnet\include\.\libnet\libnet-types.h \
+  jni\libnet\include\.\libnet\libnet-macros.h \
+  jni\libnet\include\.\libnet\libnet-headers.h \
+  jni\libnet\include\.\libnet\libnet-structures.h \
+  jni\libnet\include\.\libnet\libnet-asn1.h \
+  jni\libnet\include\.\libnet\libnet-functions.h jni\libpcap\pcap.h \
+  jni\libpcap\pcap-bpf.h jni\include\droid.h jni\net.h jni\hashmap.h
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/arp.h:
+jni\arp.h:
 
-libnet/include/libnet.h:
+jni\libnet\include\libnet.h:
 
-libnet/include/./libnet/libnet-types.h:
+jni\libnet\include\.\libnet\libnet-types.h:
 
-libnet/include/./libnet/libnet-macros.h:
+jni\libnet\include\.\libnet\libnet-macros.h:
 
-libnet/include/./libnet/libnet-headers.h:
+jni\libnet\include\.\libnet\libnet-headers.h:
 
-libnet/include/./libnet/libnet-structures.h:
+jni\libnet\include\.\libnet\libnet-structures.h:
 
-libnet/include/./libnet/libnet-asn1.h:
+jni\libnet\include\.\libnet\libnet-asn1.h:
 
-libnet/include/./libnet/libnet-functions.h:
+jni\libnet\include\.\libnet\libnet-functions.h:
 
-libpcap/pcap.h:
+jni\libpcap\pcap.h:
 
-libpcap/pcap-bpf.h:
+jni\libpcap\pcap-bpf.h:
 
-include/droid.h:
+jni\include\droid.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/net.h:
+jni\net.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/hashmap.h:
+jni\hashmap.h:

@@ -15,10 +15,10 @@ APP_OPTIM := release
 LOCAL_CFLAGS:= -static -ffunction-sections -fdata-sections
 LOCAL_LDFLAGS += -Wl,--gc-sections
 
-LOCAL_C_INCLUDES := libpcap libnet/include include
+LOCAL_C_INCLUDES := $(MY_LOCAL_PATH)/libpcap $(MY_LOCAL_PATH)/libnet/include $(MY_LOCAL_PATH)/include
 LOCAL_STATIC_LIBRARIES := libpcap libnet
 
-CFLAGS += -fPIE
+CFLAGS += -fPIE -fno-stack-protector
 LDFLAGS += -fPIE -pie
 
 include $(BUILD_EXECUTABLE)

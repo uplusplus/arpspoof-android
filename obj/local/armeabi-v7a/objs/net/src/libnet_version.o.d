@@ -1,5 +1,4 @@
-/home/emeykey/Desktop/dsploit-arpspoof/obj/local/armeabi-v7a/objs/net/src/libnet_version.o: \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/libnet_version.c \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../version.h
+./obj/local/armeabi-v7a/objs/net/src/libnet_version.o: \
+  jni\libnet\src\libnet_version.c jni\libnet\src\..\version.h
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libnet/src/../version.h:
+jni\libnet\src\..\version.h:

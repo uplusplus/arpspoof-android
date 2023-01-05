@@ -1,26 +1,20 @@
-/home/emeykey/Desktop/dsploit-arpspoof/obj/local/arm64-v8a/objs/pcap/nametoaddr.o: \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/nametoaddr.c \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/config.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-int.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-bpf.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/gencode.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-namedb.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/ethertype.h \
- /home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/llc.h
+./obj/local/arm64-v8a/objs/pcap/nametoaddr.o: jni\libpcap\nametoaddr.c \
+  jni\libpcap\config.h jni\libpcap\pcap-int.h jni\libpcap\pcap.h \
+  jni\libpcap\pcap-bpf.h jni\libpcap\gencode.h jni\libpcap\pcap-namedb.h \
+  jni\libpcap\ethertype.h jni\libpcap\llc.h
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/config.h:
+jni\libpcap\config.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-int.h:
+jni\libpcap\pcap-int.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap.h:
+jni\libpcap\pcap.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-bpf.h:
+jni\libpcap\pcap-bpf.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/gencode.h:
+jni\libpcap\gencode.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/pcap-namedb.h:
+jni\libpcap\pcap-namedb.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/ethertype.h:
+jni\libpcap\ethertype.h:
 
-/home/emeykey/Desktop/dsploit-arpspoof/jni/libpcap/llc.h:
+jni\libpcap\llc.h:

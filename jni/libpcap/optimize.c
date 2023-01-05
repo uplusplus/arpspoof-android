@@ -1360,7 +1360,7 @@ fold_edge(child, ep)
 	return 0;
 }
 
-#include "ffs.h"
+// #include "ffs.h"
 static void
 opt_j(ep)
 	struct edge *ep;

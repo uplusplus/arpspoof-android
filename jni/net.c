@@ -18,11 +18,11 @@
  */
 #include "net.h"
 
-inline int address_hash( void* key ) {
+static int address_hash( void* key ) {
 	return (int)key;
 }
 
-inline bool address_hash_equals( void* keyA, void* keyB ) {
+static bool address_hash_equals( void* keyA, void* keyB ) {
 	return address_hash( keyA ) == address_hash( keyB );
 }
 
