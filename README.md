@@ -1,3 +1,7 @@
+
+# 修正
+  现在可以直接使用任意版本ndk编译，直接在根目录下ndk-build即可。
+
 # dSploit ArpSpoof forked module for Android 6-11
 
 This file was part of [dSploit](https://github.com/evilsocket/dsploit) and it's licensed under the GPL v3.
